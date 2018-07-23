@@ -1,2 +1,1 @@
-# 3-Responsive-Portfolio
-Enhancing the portfolio with a mobile-responsive layout.
+# Responsive-Portfolio
